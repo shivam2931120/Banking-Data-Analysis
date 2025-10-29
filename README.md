@@ -1,4 +1,4 @@
-🏦 Banking Data Analysis (EDA with Python)
+# 🏦 Banking Data Analysis (EDA with Python)
 📌 Project Overview:
 This project performs Exploratory Data Analysis (EDA) on a banking dataset to understand customer demographics, financial behavior, and factors influencing term deposit subscriptions.
 The analysis focuses on uncovering insights related to age, job type, balance, education, loans, contact type, and campaign success.
